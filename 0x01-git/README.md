@@ -1,1 +1,1 @@
-My texte is here
+My texe is here.
